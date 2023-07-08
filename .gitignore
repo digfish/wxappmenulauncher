@@ -1,0 +1,11 @@
+__pycache__/
+dist/
+build/
+launcher*.json
+*.db
+wxsystray.py
+psgmain.py
+WxAppMenuLauncher.spec
+wxmacdemo*
+
+tree.win-atuarro.json
